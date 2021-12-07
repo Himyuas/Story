@@ -1,1 +1,1 @@
-I'm inside chapter 2 of git example.
+I'm inside chapter 2 of git alien example.
